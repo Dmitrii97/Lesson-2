@@ -1,0 +1,30 @@
+.block1 {
+    display: block;
+    width: 150px;
+    height: 40px;
+    padding: 8px;
+    margin: 10px;
+    border: 2px solid blue;
+    box-sizing: border-box;
+    background-color: teal;
+}
+.block2 {
+    display: inline;
+    width: 20px;
+    height: 15%;
+    padding: 8px;
+    margin: 10px;
+    border: 2px solid red;
+    box-sizing: border-box;
+    background-color: yellow;
+}
+.block3 {
+    display: inline-block;
+    width: 170px;
+    height: 15%;
+    padding: 8px;
+    margin: 10px;
+    border: 2px solid green;
+    box-sizing: border-box;
+    background-color: rgb(146, 212, 146);
+}
